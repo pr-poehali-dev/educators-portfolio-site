@@ -4,7 +4,7 @@ const TitleSection = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-50 to-blue-50 relative overflow-hidden">
       {/* Background Images */}
-      <div className="absolute inset-0 opacity-20">
+      <div className="absolute inset-0 opacity-20 bg-slate-200">
         <img
           src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=300&fit=crop"
           alt="Students learning"
