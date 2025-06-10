@@ -62,7 +62,7 @@ const TableOfContents = () => {
         <SheetContent className="w-[400px] sm:w-[540px] bg-white/95 backdrop-blur-sm">
           <SheetHeader className="border-b border-slate-200 pb-4 mb-6">
             <SheetTitle className="text-xl text-slate-800 font-montserrat">
-              📋 Содержание портфолио
+              📋 Table of contents
             </SheetTitle>
           </SheetHeader>
 
