@@ -8,7 +8,7 @@ const TitleSection = () => {
         <img
           src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=300&fit=crop"
           alt="Students learning"
-          className="absolute top-10 left-10 w-500 h-500 blur-sm object-cover rounded-lg mx-[5px] my-[5px] py-0 px-0"
+          className="absolute center-10 left-10 w-500 h-500 blur-sm object-cover rounded-lg mx-[5px] my-[5px] py-0 px-0"
         />
         <img
           src="https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=400&h=300&fit=crop"
