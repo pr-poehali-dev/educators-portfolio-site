@@ -57,7 +57,7 @@ const TitleSection = () => {
         />
       </div>
 
-      <div className="text-center max-w-4xl px-8 relative z-10">
+      <div className="text-center max-w-3xl px-8 relative z-10 bg-slate-100">
         <div className="mb-12">
           <h1 className="text-sm md:text-base font-montserrat text-slate-600 mb-1">
             National Research University Higher School Of Economics
