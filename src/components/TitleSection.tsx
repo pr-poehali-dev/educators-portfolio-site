@@ -18,7 +18,7 @@ const TitleSection = () => {
         <img
           src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=300&fit=crop"
           alt="Students studying"
-          className="absolute bottom-32 left-16 w-36 h-28 object-cover rounded-lg blur-sm"
+          className=""
         />
         <img
           src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&h=300&fit=crop"
