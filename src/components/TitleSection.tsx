@@ -4,31 +4,56 @@ const TitleSection = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-slate-50 to-blue-50 relative overflow-hidden">
       {/* Background Images */}
-      <div className="absolute inset-0 opacity-5">
+      <div className="absolute inset-0 opacity-20">
         <img
           src="https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=400&h=300&fit=crop"
           alt="Students learning"
-          className="absolute top-10 left-10 w-32 h-24 object-cover rounded-lg"
+          className="absolute top-10 left-10 w-32 h-24 object-cover rounded-lg blur-sm"
         />
         <img
           src="https://images.unsplash.com/photo-1497486751825-1233686d5d80?w=400&h=300&fit=crop"
           alt="Language books"
-          className="absolute top-20 right-20 w-28 h-20 object-cover rounded-lg"
+          className="absolute top-20 right-20 w-28 h-20 object-cover rounded-lg blur-sm"
         />
         <img
           src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?w=400&h=300&fit=crop"
           alt="Students studying"
-          className="absolute bottom-32 left-16 w-36 h-28 object-cover rounded-lg"
+          className="absolute bottom-32 left-16 w-36 h-28 object-cover rounded-lg blur-sm"
         />
         <img
           src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&h=300&fit=crop"
           alt="Group learning"
-          className="absolute bottom-20 right-12 w-30 h-22 object-cover rounded-lg"
+          className="absolute bottom-20 right-12 w-30 h-22 object-cover rounded-lg blur-sm"
         />
         <img
-          src="https://images.unsplash.com/photo-1515378791036-0648a814c963?w=400&h=300&fit=crop"
-          alt="Language study"
-          className="absolute top-1/2 left-8 w-24 h-32 object-cover rounded-lg transform -translate-y-1/2"
+          src="https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=400&h=300&fit=crop"
+          alt="Books and learning"
+          className="absolute top-1/3 right-1/4 w-28 h-36 object-cover rounded-lg blur-sm"
+        />
+        <img
+          src="https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=400&h=300&fit=crop"
+          alt="Library books"
+          className="absolute bottom-1/3 left-1/3 w-32 h-24 object-cover rounded-lg blur-sm"
+        />
+        <img
+          src="https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?w=400&h=300&fit=crop"
+          alt="Study materials"
+          className="absolute top-1/2 right-8 w-24 h-28 object-cover rounded-lg blur-sm"
+        />
+        <img
+          src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=300&fit=crop"
+          alt="Educational environment"
+          className="absolute bottom-10 left-1/4 w-30 h-24 object-cover rounded-lg blur-sm"
+        />
+        <img
+          src="https://images.unsplash.com/photo-1471970471555-19d4b113e9ed?w=400&h=300&fit=crop"
+          alt="Learning space"
+          className="absolute top-40 left-1/2 w-26 h-32 object-cover rounded-lg blur-sm transform -translate-x-1/2"
+        />
+        <img
+          src="https://images.unsplash.com/photo-1509062522246-3755977927d7?w=400&h=300&fit=crop"
+          alt="Academic materials"
+          className="absolute bottom-1/4 right-1/3 w-28 h-20 object-cover rounded-lg blur-sm"
         />
       </div>
 
@@ -48,10 +73,10 @@ const TitleSection = () => {
           </p>
         </div>
 
-        <div className="w-32 h-1 bg-blue-500 mx-auto mb-8"></div>
+        <div className="w-32 h-1 bg-blue-500 mx-auto mb-12"></div>
 
         <div className="mb-8">
-          <h1 className="text-xl md:text-2xl font-montserrat font-bold text-slate-800 mb-8">
+          <h1 className="text-3xl md:text-4xl font-montserrat font-bold text-slate-800 mb-8">
             Educator's Portfolio
           </h1>
         </div>
