@@ -23,7 +23,7 @@ const TitleSection = () => {
         <img
           src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=400&h=300&fit=crop"
           alt="Group learning"
-          className="absolute bottom-20 right-12 w-30 h-22 object-cover rounded-lg blur-sm"
+          className=""
         />
         <img
           src="https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=400&h=300&fit=crop"
